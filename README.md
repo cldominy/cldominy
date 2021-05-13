@@ -28,8 +28,17 @@ I am always looking to expand my my horizons and understanding of programming, b
     <!-- CSS3 -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" alt="CSS3" />
         &nbsp;
+ <!-- Python -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" alt="Python" />
+        &nbsp;
+ <!-- Java -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" alt="Java" />
+        &nbsp;
+ <!-- R -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="32" alt="R" />
+        &nbsp;
     <!-- JavaScript -->
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" alt="JavaScript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" alt="Javascript" />
         &nbsp;
       <!-- NodeJS -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" alt="NodeJS" />
