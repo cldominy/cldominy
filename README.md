@@ -12,7 +12,7 @@ I am always looking to expand my my horizons and understanding of programming, b
 
 - [My Portfolio](https://cdominy.com)
 - [My LinkedIn](https://www.linkedin.com/in/christoph-dominy/)
-- [Contat Me](mailto:cdominy@utexas.edu) 
+- [Contact Me](mailto:cdominy@utexas.edu) 
  
 ---
 
