@@ -6,9 +6,9 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=cldominy&theme=nord"></p>
 
-Hello there! My name is Christoph Dominy and I am a full-stacks web developer based in Austin, TX. I currently am working on side-projects, with my newest development being a single-page MERN application to track job applications and their status. 
+Hello there! My name is Christoph Dominy and I am a full-stacks software developer based in Austin, TX. I currently work for UT's Technology Resources to develop customized applications for departments and integrate vendor products with enterprise systems. Current goals of mine are to redevelop my personal page, continue contributions to open-source projects, and begin development on a single-page MERN application to track job applications and their status.
 
-I am always looking to expand my my horizons and understanding of programming, by learning new languages and contributing to open-source projects.
+I am always looking to expand my my horizons and understanding of software development, by learning new languages and contributing to open-source projects.
 
 - [My Portfolio](https://cdominy.com)
 - [My LinkedIn](https://www.linkedin.com/in/christoph-dominy/)
@@ -31,8 +31,8 @@ I am always looking to expand my my horizons and understanding of programming, b
  <!-- Python -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" alt="Python" />
         &nbsp;
- <!-- Java -->
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" alt="Java" />
+ <!-- Django -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="32" alt="Django" />
         &nbsp;
  <!-- R -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="32" alt="R" />
